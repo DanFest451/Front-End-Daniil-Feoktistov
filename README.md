@@ -2,6 +2,11 @@
 Software Development Skills
 # Author Daniil Feoktistov
 
+# IMPORTANT!
+Due to some errors in my previous repository, I had to create a new one. You can check all made commits from the previous one.
+Link to previous repository: https://github.com/DanFest451/Course-Front-End-Development-Daniil-Feoktistov.git
+Link to website: https://danfest451.github.io/Front-End-Daniil-Feoktistov/
+
 # GameWorld — Game Store Website (Frontend)
 A simple responsive game store website built with HTML, CSS, and a little bit JavaScript.  
 Includes a fixed header with a mobile hamburger menu, a game catalog grid, an FAQ accordion, and a footer.
@@ -39,3 +44,4 @@ Structure below
 ── js/
    └── script.js
 ── images/
+   └── images
